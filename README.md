@@ -2,13 +2,13 @@
 
 # 👋 Hi, I’m @pranshujassal
 
-**👀 I’m interested in Data Engineering and Full Stack Web Development**
+**👀 I’m interested in Data Engineering and Data Analytics**
 
 **🌱 I’m currently learning Data Engineering**
 
 **💞️ I’m looking to collaborate on:**
 - Data Engineering Projects
-- Full Stack Web Development Projects
+- Data Analytics Projects
 
 **📫 How to reach me:**
 - [pranshujassalwork01@gmail.com]
@@ -18,7 +18,7 @@
 - He/Him
 
 **⚡ Fun fact:**
-- I love to explore new technologies and frameworks in both data and web development spaces.
+- I love to explore new technologies and frameworks in both Data Engineering and Data Analytics spaces.
 
 ---
 
@@ -43,10 +43,6 @@
 - AWS Glue
 - AWS Lambda
 - GCP BigQuery
-
-### Web Development:
-- **Languages:** Java, JavaScript, SQL, Python (NumPy, Pandas, Matplotlib)
-- **Technologies/Frameworks:** React.js, Node.js, Next.js, MongoDB, Redux, Tailwind CSS, Express.js
 
 ### Developer Tools:
 - VS Code
